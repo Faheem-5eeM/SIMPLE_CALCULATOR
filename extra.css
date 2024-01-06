@@ -7,13 +7,13 @@ html, body{
 
 .button{
   width: 66px;
-  padding: 50px;
-  margin-left: 80px;
   margin: 0 3px;
   border: 2px solid black;
   border-radius: 9px;
   cursor: pointer;
   text-align: center;
+  font-size: 30px;
+  
 
 }
 
@@ -42,3 +42,6 @@ html, body{
   font-size: 23px;
   padding-inline-start: 12px;
 }
+
+
+
