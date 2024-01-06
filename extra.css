@@ -37,8 +37,12 @@ html, body{
   border: 2px solid black;
   border-radius: 9px;
   cursor: pointer;
-  font-size: 23px;
+  font-size: 40px;
   padding-inline-start: 12px;
+}
+body{
+  background-image: url(img/bg.jpg);
+  background-size: cover;
 }
 
 
