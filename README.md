@@ -1,6 +1,6 @@
 
 # **Simple Calculator**
-https://faheem-5eem.github.io/calculator/
+faheem-5eem.github.io/SIMPLE_CALCULATOR/
 ## Brief Description
 A frontend project for a simple calculator capable of performing basic arithmetic operations such as addition, subtraction, multiplication, division, and modulus. It also includes functionality for handling thousands with "000" and "00" buttons, along with error messages for invalid expressions and division by zero.
 ## Features
